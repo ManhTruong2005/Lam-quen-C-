@@ -1,0 +1,14 @@
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.AssemblyInfoInputs.cache
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.AssemblyInfo.cs
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.csproj.CoreCompileInputs.cache
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\bin\Debug\net8.0\LamquenvoiC#.exe
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\bin\Debug\net8.0\LamquenvoiC#.deps.json
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\bin\Debug\net8.0\LamquenvoiC#.runtimeconfig.json
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\bin\Debug\net8.0\LamquenvoiC#.dll
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\bin\Debug\net8.0\LamquenvoiC#.pdb
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.dll
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\refint\LamquenvoiC#.dll
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.pdb
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\LamquenvoiC#.genruntimeconfig.cache
+C:\Mangmaytinh(C#)\Mangmaytinh\LamquenvoiC#\obj\Debug\net8.0\ref\LamquenvoiC#.dll
